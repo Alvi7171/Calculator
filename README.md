@@ -1,2 +1,2 @@
-# Calculator
-Author- Alvi Rahman
+ # Calculator
+Author- Shafiur Rahman Alvi
